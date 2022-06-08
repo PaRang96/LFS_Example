@@ -1189,3 +1189,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.08-00.16.59:069][565]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.08-00.16.59:069][565]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.06.08-00.16.59:069][565]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.06.08-00.19.17:775][700]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.06.08-00.19.17:775][700]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.08-00.19.17:775][700]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.08-00.19.17:775][700]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.08-00.19.17:783][700]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.06.08-00.19.17:784][700]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../../study/ProjectLFS/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2022.06.08-00.19.17:785][700]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../../study/ProjectLFS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+[2022.06.08-00.19.17:786][700]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../../study/ProjectLFS/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
+[2022.06.08-00.19.17:791][700]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../../study/ProjectLFS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2022.06.08-00.19.17:793][700]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../../study/ProjectLFS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2022.06.08-00.19.17:818][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../../study/ProjectLFS/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2022.06.08-00.19.17:822][700]LogSavePackage: Moving '../../../../../../study/ProjectLFS/Saved/ThirdPersonOverviewF8B053A14AC1261678C26BA49763D78F.tmp' to '../../../../../../study/ProjectLFS/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2022.06.08-00.19.17:831][700]AssetCheck: New page: Asset Save: ThirdPersonOverview
+[2022.06.08-00.19.17:831][700]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2022.06.08-00.19.20:975][ 77]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.06.08-00.19.21:833][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.08-00.19.21:840][178]LogSavePackage: Moving '../../../../../../study/ProjectLFS/Saved/Minimal_DefaultF8EFACF844BE88C13D1D9D8DF923CEE0.tmp' to '../../../../../../study/ProjectLFS/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.06.08-00.19.21:843][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../study/ProjectLFS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.06.08-00.19.21:861][178]LogSavePackage: Moving '../../../../../../study/ProjectLFS/Saved/Minimal_Default_BuiltData749EBF0B4B9675C6F80DF2AD1B215E45.tmp' to '../../../../../../study/ProjectLFS/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.06.08-00.19.21:870][178]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.08-00.19.21:870][178]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.06.08-00.19.21:870][178]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
